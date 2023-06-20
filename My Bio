@@ -5,22 +5,19 @@
 </head>
 <body>
   <h1><em>About Me</em></h1>
-  <img src="bless.jpg" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px;">
-  <h2><b>Ochigbo Blessing</b></h2>
+  <img src="bless.jpg" alt="bless.jpg" style="border-radius: 50%; width: 200px; height: 200px;">
+  <h2>Ochigbo Blessing</h2>
   <p>
     I am a <b>passionate</b> and <b>dedicated</b> individual with a love for web development. With a strong background in HTML, CSS, and JavaScript, I enjoy creating <em>interactive</em> and visually captivating websites that leave a lasting impression.
-  </p>
-  <p>
-    I am 16 years old and i love <em>CODING</em> i want to study political science because It aims to comprehend the processes involved in political decision-making, governmental operations, and the creation and application of policies, and i also find it very interesting.
-  </p>
-  <p>
-    My hobbies i will say is nothing specific but i love traveling, exploring, meeting new people, i will also add coding to my hobbies because i love coding. I love being postive, social and smart, i also love people who are smart and are postive thinkers and problem solvers <em>My dislikes</em>, would be bad vibes and wrong association or me not in the right state of mind, I love good food, but i specifically dont have a best food, <em>fav colour</em> would be black .
-  </p>
-  <p>
-    Feel free to explore my portfolio and get in touch with me for any web development projects or collaborations. Let's create something amazing together!
-  </p>
+  <ul style="display: inline;">
+   <li> I am 16 years old and i love <em>CODING</em> i want to study political science because It aims to comprehend the processes involved in political decision-making, governmental operations, and the creation and application of policies, and i also find it very interesting.</li>
+  
+   <li> My hobbies i will say is nothing specific but i love traveling, exploring, meeting new people, i will also add coding to my hobbies because i love coding. I love being postive, social and smart, i also love people who are smart and are postive thinkers and problem solvers <em>My dislikes</em>, would be bad vibes and wrong association or me not in the right state of mind, I love good food, but i specifically dont have a best food, <em>fav colour</em> would be black.</li>
+  
+   <li> Feel free to explore my portfolio and get in touch with me for any web development projects or collaborations. Let's create something amazing together!</li>
+  </ul>
   <br>
-  <p>
+ 
     You can find more about me on my 
     <a href="https://www.instagram.com/ochigboblessing68/#>instagram</a>or connect with me on <a href="https://www.twitter.com/ochigboblessin4>instagram </a>
     or connect with me on <a href="https://www.twitter.com/ochigboblessin4>instagram </a> <a href="https://www.instagram.com/ochigboblessing68/#>twitter</a>      
