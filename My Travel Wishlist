@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Travel Wishlist</title>
+  <style>
+    body {
+      font-family: 'Times New Roman', Times, serif;
+      background-color: #f3f3f3;
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 30px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    li {
+      text-align: center;
+      margin: 10px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    img {
+      width: 200px;
+      height: 150px;
+      object-fit: cover;
+    }
+
+    p {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      margin: 0;
+      font-size: 18px;
+    }
+
+    li:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    }
+  </style>
+</head>
+<body>
+  <h1>Places I'd Love to Visit</h1>
+  <ul>
+    <li>
+      <img src="england.jpg" alt="England">
+      <p>England</p>
+      <p>So I searched out beautiful things about England and why I would love to go there. The arts, the sciences, and the culture are celebrated all across Britain, and world-class places like The British Museum in London are free of charge for all.</p>
+    </li>
+    <li>
+      <img src="korean.jpg" alt="Korean">
+      <p>Korea</p>
+      <p>Exploring the rich cultural heritage, stunning landscapes, and the unique blend of tradition and modernity in Korea is something I've always dreamed of.</p>
+    </li>
+    <li>
+      <img src="usa.jpg" alt="USA">
+      <p>USA</p>
+      <p>The United States offers a diverse range of experiences, from bustling cities to breathtaking national parks. I'm excited to explore its vibrant culture and landmarks.</p>
+    </li>
+    <li>
+      <img src="paris.jpg" alt="Paris">
+      <p>Paris</p>
+      <p>Paris, the City of Love, has always captured my imagination with its iconic landmarks, art, and delectable cuisine.</p>
+    </li>
+    <li>
+      <img src="canada.jpg" alt="Canada">
+      <p>Canada</p>
+      <p>With its stunning natural beauty, friendly people, and thriving cities, Canada is a destination that promises unforgettable experiences.</p>
+    </li>
+  </ul>
+</body>
+</html>
